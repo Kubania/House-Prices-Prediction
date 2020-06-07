@@ -20,14 +20,14 @@ CRISP Methodology  <br />
 Exploratory Data Analysis(EDA)
 
 # Setup and Installations
-1. Google Collabs/ Jupyter Notebooks  <br />
-2. Python Libraries: <br />
-			* Pandas  <br />
-			* Numpy  <br />
-			* Seaborn  <br />
-			* Sklearn  <br />
-			* Matplotlib  <br />
-			* Statsmodel
+- Google Collabs/ Jupyter Notebooks  <br />
+- Python Libraries: <br />
+	* Pandas  <br />
+	* Numpy  <br />
+	* Seaborn  <br />
+	* Sklearn  <br />
+	* Matplotlib  <br />
+	* Statsmodel
 
 # Known Bugs
 None yet
@@ -37,7 +37,7 @@ Python
 
 # Contact
 For questions,clarification or corrections   <br />
-Contact me at [Named Link]mercykubania@gmail.com
+Contact me at mercykubania@gmail.com
 
 # Licences
 MIT Lincence

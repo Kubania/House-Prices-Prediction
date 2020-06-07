@@ -1,7 +1,7 @@
 # House-Prices-Prediction
 House Prices Prediction using Regression Models
 
-Authored By : Mercy M.Kubania
+Authored By : Mercy M.Kubania  <br />
 Date: 7/06/2020
 
 # Research Questions
@@ -16,17 +16,17 @@ Date: 7/06/2020
 5. ElasticNet Regression
 
 # Experimental Design
-CRISP Methodology 
+CRISP Methodology  <br />
 Exploratory Data Analysis(EDA)
 
 # Setup and Installations
-1. Google Collabs/ Jupyter Notebooks
-2. Python Libraries:
-			Pandas
-			Numpy
-			Seaborn
-			Sklearn
-			Matplotlib
+1. Google Collabs/ Jupyter Notebooks  <br />
+2. Python Libraries: 
+			Pandas  <br />
+			Numpy  <br />
+			Seaborn  <br />
+			Sklearn  <br />
+			Matplotlib  <br />
 			Statsmodel
 
 # Known Bugs
@@ -36,7 +36,7 @@ None yet
 Python
 
 # Contact
-For questions,clarification or corrections 
+For questions,clarification or corrections   <br />
 Contact me at mercykubania@gmail.com
 
 # Licences
